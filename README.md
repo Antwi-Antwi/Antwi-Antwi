@@ -1,3 +1,3 @@
-## Personal Profile
+# Personal Profile
 
-# 🏫 Currently enrolled in BSc-Computer Science
+## 🏫 Currently enrolled in BSc-Computer Science
