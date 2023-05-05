@@ -4,4 +4,4 @@
 
 📚 Currently learning Ionic Angular, Typescript, Java Spring Boot
 
-Currently doing a project for AWS
+🔖 Currently doing a project for [AWS] (https://www.amazon.jobs/en/business_categories/amazon-web-services).
