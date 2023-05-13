@@ -1,6 +1,6 @@
 # Personal Profile
 
-🏫 University of Pretoria, 3rd Year student, 2023
+🏫 University of Pretoria, 3rd Year BSc Computer Science student, 2023
 
 📚 Currently learning Ionic Angular, Typescript, Java Spring Boot
 
