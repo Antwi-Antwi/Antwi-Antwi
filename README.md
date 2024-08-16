@@ -1,3 +1,4 @@
 # Personal Profile
-- 👷  About me: Still finding my feet
-- 🏢 IoTdc Pty Ltd
+- Sofware Engineer
+- Likes relaxing to a nice book and/or  thought-provoking series
+- Likes gaming. Just an ordinary gamer. You can possibly beat me in FIFA (EA FC) :)
